@@ -1,0 +1,199 @@
+BEGIN:VCALENDAR
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20210217T180000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2021-02-17@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20201126T180000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-11-26@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20210203T180000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2021-02-03@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20201216T180000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2020-12-16@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20201230T180000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2020-12-30@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20210128T180000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2021-01-28@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20210325T180000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2021-03-25@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20210224T180000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2021-02-24@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20201118T180000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2020-11-18@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20201202T180000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2020-12-02@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20210120T180000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2021-01-20@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20201104T180000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2020-11-04@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20210317T180000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2021-03-17@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+GEO:49.194997;16.608071
+DTSTAMP:20201029T042637Z
+DTSTART:20201029T180000Z
+SUMMARY:Brněnské Pyvo – Typovací
+DESCRIPTION:Vzhledem k současné epidemiologické situaci bude říjnové Pyvo opět ONLINE.\n\nBecause of the current epidemiological situation\, the October Pyvo will be held ONLINE.\n\n-----------------------------------------------\n\nJoin us on Thursday 29. 10. 2020 at 19:00 via https://meet.google.com/tpm-yecn-iao\nThe talk will be in English.\n
+LOCATION:Brno
+URL:https://pyvo.cz/brno-pyvo/2020-10/
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-10-29@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20210331T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2021-03-31@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20201125T180000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2020-11-25@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20210106T180000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2021-01-06@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20210303T180000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2021-03-03@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20201111T170000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2020-11-11@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20210127T180000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2021-01-27@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20210113T170000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2021-01-13@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20201231T180000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-12-31@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20210310T170000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2021-03-10@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201029T042637Z
+DTSTART:20210225T180000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2021-02-25@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+END:VCALENDAR
